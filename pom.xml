@@ -16,6 +16,10 @@
         <module>base-core</module>
         <module>base-dataaccess</module>
         <module>base-common</module>
+        <module>base-app</module>
+        <module>base-in-api</module>
+        <module>base-out-api</module>
+        <module>base-management-web</module>
     </modules>
 
     <properties>
